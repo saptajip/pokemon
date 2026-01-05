@@ -1,4 +1,4 @@
-berikut adalah [Next.js](https://nextjs.org) project
+berikut adalah [Next.js](https://nextjs.org) project untuk menampilkan daftar pokemon
 
 ## untuk memulai
 
